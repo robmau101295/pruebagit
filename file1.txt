@@ -1,1 +1,3 @@
 Practica 1 de Git.
+Escribiendo la segunda linea
+Escribiendo la tercera linea
